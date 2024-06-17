@@ -1,0 +1,9 @@
+1password
+flux
+font-hack-nerd-font
+font-meslo-lg-nerd-font
+google-cloud-sdk
+iterm2
+postman
+spotify
+visual-studio-code
